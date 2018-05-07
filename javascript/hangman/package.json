@@ -1,0 +1,20 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run": "npx parcel index.html"
+  },
+  "dependencies": {
+    "bulma": "^0.7.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "parcel-bundler": "^1.8.1",
+    "typescript": "^2.8.3"
+  },
+  "peerDependencies": {
+    "npx": "^10.2.0"
+  }
+}

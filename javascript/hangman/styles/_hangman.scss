@@ -1,0 +1,12 @@
+.hangman {
+  display: flex;
+  flex:1;
+ 
+  &__canvas {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    // height: 100%;
+    // width: 60%;
+  }
+}

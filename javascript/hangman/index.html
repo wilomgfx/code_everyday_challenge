@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Hangman</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> -->
+  <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+</head>
+<body class="container is-fluid">
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="nav">
+      <a class="navbar-item nav__item" href="/">
+        Hangman
+      </a>
+    </div>
+  </nav>
+  <section>
+    <h1>Play hangman</h1>
+    <div class="container">
+      <div>
+        <div>
+          <label for="wordToFind" class="label">
+            Word to find :
+            <input class="control" id="wordToFind">
+          </label>
+          <button class="button is-primary">Start game</button>
+          <button class="button is-danger">Reveal word...</button>
+        </div>
+        <div class="hangman">
+          <canvas class="hangman__canvas" id="hangmanCanvas" width="600px" height="700px"></canvas>
+        </div>
+      </div>
+    </div>
+  </section>
+  <script src="./scripts/index.ts"></script>  
+</body>
+</html>
