@@ -22,4 +22,4 @@ Monday, May 07 2018
 
 ## Week 2 May 13, 2018 to May 20, 2018
 ## Week 3 May 20, 2018 to May 27, 2018
-## Week 3 May 27, 2018 to June 3, 2018
+## Week 4 May 27, 2018 to June 3, 2018
