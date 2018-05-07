@@ -15,7 +15,7 @@ Monday, May 07 2018
 ## Week 1 May 6, 2018 to May 13, 2018
 ### Hangman
 **Tech used**
-1. Vanilla Javascript(ES6+)
+1. Vanilla Javascript(ES6+) using [Typescript](https://www.typescriptlang.org/) for dem sweet types and editor intellisense
 2. canvas
 3. [Bulma](https://bulma.io/) for some sweet sweet styling
 4. [Parcel bundler](https://parceljs.org/) for that sweet no config bundling :D
